@@ -1,9 +1,27 @@
+# TelecomApp
 
+![Logo do Aplicativo](link_para_o_logo.png)
 
+## Descrição
 
+O **TelecomApp** é uma aplicação desenvolvida em React Native que permite aos usuários verificar suas informações de cadastro, resgatar boletos, solicitar chamados técnicos e alterar senhas de forma conveniente e intuitiva.
 
+## Funcionalidades
 
+- Verificação de informações de cadastro
+- Resgate de boletos
+- Solicitação de chamados técnicos
+- Alteração de senha
 
+## Pré-requisitos
+
+Certifique-se de ter o Node.js e o npm (ou Yarn) instalados em sua máquina.
+
+## Instalação
+
+1. Clone este repositório.
+2. Navegue até o diretório do projeto.
+3. Execute o comando `npm install` ou `yarn install` para instalar as dependências.
 
 
 
