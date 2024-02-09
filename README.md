@@ -1,7 +1,5 @@
 # TelecomApp
 
-![Logo do Aplicativo](link_para_o_logo.png)
-
 ## Descrição
 
 O **TelecomApp** é uma aplicação desenvolvida em React Native que permite aos usuários verificar suas informações de cadastro, resgatar boletos, solicitar chamados técnicos e alterar senhas de forma conveniente e intuitiva.
